@@ -4,4 +4,6 @@
 
 [Jupyter Notebook](https://github.com/qayyumkhanma/Coursera_Capstone/blob/main/Accident_Severity_Prediction_Notebook.ipynb)
 
-[Project Report](https://github.com/qayyumkhanma/Coursera_Capstone/raw/main/Accident_Severity_Prediction_Report.pdf)
+[Project Report](https://github.com/qayyumkhanma/Coursera_Capstone/blob/main/Accident_Severity_Prediction_Report.pdf)
+
+[Project Presentation](https://github.com/qayyumkhanma/Coursera_Capstone/blob/main/ACCIDENT%20SEVERITY%20PREDICTION.pdf)
